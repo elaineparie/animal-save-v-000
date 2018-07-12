@@ -11,8 +11,8 @@ html {
 /* Write your solution here */
 
 
-@media only screen and (min-width: 433px, max-width: 1033px) {
-  #ostrich {
+@media only screen and (min-width: 433px) and (max-width: 1033px) {
+  #monkey {
     top: -50px;
   }
 }
